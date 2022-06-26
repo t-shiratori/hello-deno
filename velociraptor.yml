@@ -1,0 +1,7 @@
+envFile:
+  - .env
+
+scripts:
+  server:
+    desc: start server on local
+    cmd: deno run -A main.tsx
