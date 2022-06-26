@@ -16,7 +16,9 @@ HOST_NAME=*** # Connection info Database Host
 PASSWORD=***　# Connection info Password
 PORT=*** # Connection info Port
 ```
-<img width="800" alt="スクリーンショット 2022-06-26 12 50 35" src="https://user-images.githubusercontent.com/8470739/175813838-4078d2f8-43f0-41e4-8058-b17c03496943.png">
+
+<img width="800" alt="スクリーンショット 2022-06-26 12 50 35" src="https://user-images.githubusercontent.com/8470739/175814023-4d58d8a6-ca04-4301-bdbe-167438da927f.png">
+
 
 
 ## Run it
